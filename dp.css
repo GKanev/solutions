@@ -1,0 +1,55 @@
+.dp-1 {
+    box-shadow: 0 0px 2px 0 #0003, 0 3px 2px 0 #0001, 0 0px 1px 0 #0002;
+}
+
+.dp-2 {
+    box-shadow: 0 2px 4px 0 #0003, 0 3px 4px 0 #0001, 0 1px 2px 0 #0002;
+}
+
+.dp-4 {
+    box-shadow: 0 4px 8px 0 #0003, 0 3px 8px 0 #0001, 0 2px 4px 0 #0002;
+}
+
+.dp-6 {
+    box-shadow: 0 6px 12px 0 #0003, 0 3px 12px 0 #0001, 0 3px 6px 0 #0002;
+}
+
+.dp-8 {
+    box-shadow: 0 8px 16px 0 #0003, 0 3px 16px 0px #0001, 0 4px 8px 0 #0002;
+}
+
+.dp-16 {
+    box-shadow: 0 16px 24px 0 #0003, 0 3px 24px 0px #0001, 0 8px 16px 0 #0002;
+}
+
+.dp-24 {
+    box-shadow: 0 24px 32px 0 #0003, 0 3px 32px 0px #0001, 0 16px 32px 0 #0002;
+}
+
+.dpl-1:hover {
+    box-shadow: 0 0px 2px 0 #0003, 0 3px 2px 0 #0001, 0 0px 1px 0 #0002;
+}
+
+.dpl-2:hover {
+    box-shadow: 0 2px 4px 0 #0003, 0 3px 4px 0 #0001, 0 1px 2px 0 #0002;
+}
+
+.dpl-4:hover {
+    box-shadow: 0 4px 8px 0 #0003, 0 3px 8px 0 #0001, 0 2px 4px 0 #0002;
+}
+
+.dpl-6:hover {
+    box-shadow: 0 6px 12px 0 #0003, 0 3px 12px 0 #0001, 0 3px 6px 0 #0002;
+}
+
+.dpl-8:hover {
+    box-shadow: 0 8px 16px 0 #0003, 0 3px 16px 0px #0001, 0 4px 8px 0 #0002;
+}
+
+.dpl-16:hover {
+    box-shadow: 0 16px 24px 0 #0003, 0 3px 24px 0px #0001, 0 8px 16px 0 #0002;
+}
+
+.dpl-24:hover {
+    box-shadow: 0 24px 32px 0 #0003, 0 3px 32px 0px #0001, 0 16px 32px 0 #0002;
+}
